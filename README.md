@@ -17,7 +17,7 @@ N.D.
 
 To install plugin use following command :
 ```bash
-sls install --url https://github.com/hellgate75/serverless-dynamodb-remote.git
+sls install --url https://github.com/hellgate75/serverless-dynamodb-remote
 ```
 
 
